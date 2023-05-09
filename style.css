@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contentBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.button {
+    border-radius: 1em;
+    font-size: xx-large;
+    padding: 10px;
+    margin: 20px;
+}
